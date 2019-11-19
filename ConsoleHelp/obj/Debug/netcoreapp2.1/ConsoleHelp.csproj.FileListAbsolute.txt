@@ -1,0 +1,10 @@
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\bin\Debug\netcoreapp2.1\ConsoleHelp.deps.json
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\bin\Debug\netcoreapp2.1\ConsoleHelp.runtimeconfig.json
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\bin\Debug\netcoreapp2.1\ConsoleHelp.runtimeconfig.dev.json
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\bin\Debug\netcoreapp2.1\ConsoleHelp.dll
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\bin\Debug\netcoreapp2.1\ConsoleHelp.pdb
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\obj\Debug\netcoreapp2.1\ConsoleHelp.csproj.CoreCompileInputs.cache
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\obj\Debug\netcoreapp2.1\ConsoleHelp.AssemblyInfoInputs.cache
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\obj\Debug\netcoreapp2.1\ConsoleHelp.AssemblyInfo.cs
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\obj\Debug\netcoreapp2.1\ConsoleHelp.dll
+C:\Users\Riyad Pathan\source\repos\ConsoleHelp\ConsoleHelp\obj\Debug\netcoreapp2.1\ConsoleHelp.pdb
